@@ -1,0 +1,10 @@
+/Users/ericknightbackup/Documents/Advent2019/Day4/obj/Debug/netcoreapp2.0/Day4.csproj.CoreCompileInputs.cache
+/Users/ericknightbackup/Documents/Advent2019/Day4/obj/Debug/netcoreapp2.0/Day4.AssemblyInfoInputs.cache
+/Users/ericknightbackup/Documents/Advent2019/Day4/obj/Debug/netcoreapp2.0/Day4.AssemblyInfo.cs
+/Users/ericknightbackup/Documents/Advent2019/Day4/bin/Debug/netcoreapp2.0/Day4.deps.json
+/Users/ericknightbackup/Documents/Advent2019/Day4/bin/Debug/netcoreapp2.0/Day4.runtimeconfig.json
+/Users/ericknightbackup/Documents/Advent2019/Day4/bin/Debug/netcoreapp2.0/Day4.runtimeconfig.dev.json
+/Users/ericknightbackup/Documents/Advent2019/Day4/bin/Debug/netcoreapp2.0/Day4.dll
+/Users/ericknightbackup/Documents/Advent2019/Day4/bin/Debug/netcoreapp2.0/Day4.pdb
+/Users/ericknightbackup/Documents/Advent2019/Day4/obj/Debug/netcoreapp2.0/Day4.dll
+/Users/ericknightbackup/Documents/Advent2019/Day4/obj/Debug/netcoreapp2.0/Day4.pdb
